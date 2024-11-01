@@ -1,0 +1,1302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Imovel\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-imovel\n"
+"POT-Creation-Date: 2011-04-01 18:28:00+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabriel Reguly <gabriel@ppgr.com.br>\n"
+"Language-Team: PPGR <wp-imovel@ppgr.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_n_noop;_c\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\sites\\fotofoto\\wp-content\\plugins\\wp-imovel\n"
+
+#: wp-imovel/templates/property-featured-shortcode.php:11
+#: wp-imovel/templates/template-functions.php:167
+#: wp-imovel/core/class_widgets.php:40
+#: wp-imovel/core/class_widgets.php:166
+msgid "%s at %s for %s"
+msgstr "%s em %s por %s"
+
+#: wp-imovel/templates/property-print-view.php:53
+#: wp-imovel/templates/property.php:154
+msgid "Features"
+msgstr "Características do imóvel"
+
+#: wp-imovel/templates/property-print-view.php:78
+#: wp-imovel/templates/property.php:187
+#: wp-imovel/core/class_core.php:232
+msgid "Community Features"
+msgstr "Infraestrutura do condomínio"
+
+#: wp-imovel/templates/property-email-view.php:68
+#: wp-imovel/templates/property-email-view.php:108
+#: wp-imovel/templates/property-overview.php:76
+#: wp-imovel/templates/property-overview.php:109
+msgid "Click here to view more details"
+msgstr "Clique aqui para ver mais informações sobre este imóvel"
+
+#: wp-imovel/templates/property-overview-page.php:15
+#: wp-imovel/core/class_core.php:145
+#: wp-imovel/core/class_core.php:361
+#: wp-imovel/core/class_core.php:362
+msgid "Properties"
+msgstr "Imóveis"
+
+#: wp-imovel/templates/property-overview-page.php:20
+msgid "Sorry, we could not find what you were looking for.  Since you are here, take a look at some of our properties."
+msgstr "Sentimos muito, mas a pesquisa falhou. Quem sabe você dá uma olhada em alguns de nossos imóveis abaixo ?"
+
+#: wp-imovel/templates/template-functions.php:170
+msgid "Price:"
+msgstr "Preço:"
+
+#: wp-imovel/templates/template-functions.php:173
+msgid "Bed(s):"
+msgstr ""
+
+#: wp-imovel/templates/template-functions.php:176
+msgid "Bath(s):"
+msgstr ""
+
+#: wp-imovel/templates/template-functions.php:179
+msgid "Square Ft:"
+msgstr ""
+
+#: wp-imovel/templates/template-functions.php:215
+msgid "Property code"
+msgstr "Código do imóvel"
+
+#: wp-imovel/templates/template-functions.php:233
+#: wp-imovel/core/class_widgets.php:369
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:253
+msgid "Price Range"
+msgstr "Faixa de preço"
+
+#: wp-imovel/templates/template-functions.php:237
+#: wp-imovel/core/class_widgets.php:355
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:143
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:247
+msgid "Property Type"
+msgstr "Tipo de imóvel"
+
+#: wp-imovel/templates/template-functions.php:260
+msgid "Any"
+msgstr "Não importa"
+
+#: wp-imovel/templates/template-functions.php:289
+msgid "Search"
+msgstr "Pesquisar"
+
+#: wp-imovel/templates/property.php:77
+msgid "Get Directions"
+msgstr ""
+
+#: wp-imovel/templates/property.php:220
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:116
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:408
+msgid "Property Meta Private"
+msgstr "Informações privadas"
+
+#: wp-imovel/templates/property.php:282
+msgid "Interested?"
+msgstr ""
+
+#: wp-imovel/templates/property.php:288
+msgid "Return to building page."
+msgstr ""
+
+#: wp-imovel/templates/property.php:293
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:381
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:438
+#: wp-imovel/core/class_core.php:149
+msgid "Edit"
+msgstr "Editar"
+
+#: wp-imovel/templates/default_api.php:54
+msgid "For Sale"
+msgstr "Vende-se"
+
+#: wp-imovel/templates/default_api.php:55
+msgid "For Rent"
+msgstr "Aluga-se"
+
+#: wp-imovel/templates/default_api.php:64
+msgid "This is a rental property."
+msgstr ""
+
+#: wp-imovel/templates/default_api.php:73
+msgid "This property is for sale."
+msgstr "Este imóvel é para venda."
+
+#: wp-imovel/templates/default_api.php:79
+#: wp-imovel/templates/default_api.php:85
+msgid "Yes"
+msgstr "Sim"
+
+#: wp-imovel/templates/default_api.php:286
+msgid "<span class=\"description\">Address was validated by Google Maps.</span>"
+msgstr ""
+
+#: wp-imovel/templates/default_api.php:288
+msgid "<span class=\"description\">Address has not yet been validated, should be formatted as: street, city, state, postal code, country. Locations are validated through Google Maps.</span>"
+msgstr ""
+
+#: wp-imovel/templates/property-overview.php:26
+msgid "Sorry, no properties found - try expanding your search, or <a href=\"%s\">view all</a>."
+msgstr "Sentimos muito, nenhum imóvel foi encontrado.  <a href=\"%s\">Veja todos imóveis</a>"
+
+#: wp-imovel/templates/property-pagination.php:13
+msgid "Loading"
+msgstr "Carregando"
+
+#: wp-imovel/templates/property-pagination.php:19
+msgid "&lt;-"
+msgstr "&lt;-"
+
+#: wp-imovel/templates/property-pagination.php:33
+msgid "&gt;"
+msgstr "&gt;"
+
+#: wp-imovel/templates/property-pagination.php:43
+msgid "Order By:"
+msgstr "Ordenar por:"
+
+#: wp-imovel/action_hooks.php:69
+msgid "Apartamento"
+msgstr "Apartamento"
+
+#: wp-imovel/action_hooks.php:72
+msgid "Cobertura"
+msgstr "Cobertura"
+
+#: wp-imovel/action_hooks.php:75
+msgid "Duplex"
+msgstr "Duplex"
+
+#: wp-imovel/action_hooks.php:78
+msgid "Kitenete"
+msgstr "Kitenete"
+
+#: wp-imovel/action_hooks.php:81
+msgid "Box de garagem"
+msgstr "Box de garagem"
+
+#: wp-imovel/action_hooks.php:84
+msgid "Flat"
+msgstr "Flat"
+
+#: wp-imovel/action_hooks.php:87
+msgid "Casa"
+msgstr "Casa"
+
+#: wp-imovel/action_hooks.php:90
+msgid "Sobrado"
+msgstr "Sobrado"
+
+#: wp-imovel/action_hooks.php:93
+msgid "Terreno"
+msgstr "Terreno"
+
+#: wp-imovel/action_hooks.php:96
+msgid "Terreno em condomínio"
+msgstr "Terreno em condomínio"
+
+#: wp-imovel/action_hooks.php:99
+msgid "Chacara"
+msgstr "Chacara"
+
+#: wp-imovel/action_hooks.php:102
+msgid "Fazenda"
+msgstr "Fazenda"
+
+#: wp-imovel/action_hooks.php:105
+msgid "Sala Comercial"
+msgstr "Sala Comercial"
+
+#: wp-imovel/action_hooks.php:108
+msgid "Loja"
+msgstr "Loja"
+
+#: wp-imovel/action_hooks.php:111
+msgid "Pavilhão"
+msgstr "Pavilhão"
+
+#: wp-imovel/action_hooks.php:119
+msgid "Will appear on overview pages and on top of every listing page."
+msgstr ""
+
+#: wp-imovel/action_hooks.php:132
+msgid "Bairro"
+msgstr "Bairro"
+
+#: wp-imovel/action_hooks.php:133
+msgid "Imediações"
+msgstr "Imediações"
+
+#: wp-imovel/action_hooks.php:134
+msgid "Dormitórios"
+msgstr "Dormitórios"
+
+#: wp-imovel/action_hooks.php:135
+msgid "Banheiros"
+msgstr "Banheiros"
+
+#: wp-imovel/action_hooks.php:136
+msgid "Vagas de garagem"
+msgstr "Vagas de garagem"
+
+#: wp-imovel/action_hooks.php:137
+msgid "Área"
+msgstr "Área"
+
+#: wp-imovel/action_hooks.php:145
+msgid "Nome do proprietário"
+msgstr "Nome do proprietário"
+
+#: wp-imovel/action_hooks.php:146
+msgid "Telefone do proprietário"
+msgstr "Telefone do proprietário"
+
+#: wp-imovel/action_hooks.php:147
+msgid "Endereço"
+msgstr "Endereço"
+
+#: wp-imovel/action_hooks.php:148
+msgid "Preço"
+msgstr "Preço"
+
+#: wp-imovel/action_hooks.php:149
+msgid "Agenciador"
+msgstr "Agenciador"
+
+#: wp-imovel/action_hooks.php:150
+msgid "Chaves"
+msgstr "Chaves"
+
+#: wp-imovel/action_hooks.php:151
+msgid "Nome do condomínio"
+msgstr "Nome do condomínio"
+
+#: wp-imovel/action_hooks.php:152
+msgid "Ano de construção"
+msgstr "Ano de construção"
+
+#: wp-imovel/action_hooks.php:153
+msgid "Quadra / Lote "
+msgstr "Quadra / Lote "
+
+#: wp-imovel/action_hooks.php:154
+msgid "Matrícula"
+msgstr "Matrícula"
+
+#: wp-imovel/action_hooks.php:155
+msgid "Frente"
+msgstr "Frente"
+
+#: wp-imovel/action_hooks.php:156
+msgid "Fundos"
+msgstr "Fundos"
+
+#: wp-imovel/action_hooks.php:157
+msgid "Esquerda"
+msgstr "Esquerda"
+
+#: wp-imovel/action_hooks.php:158
+msgid "Direta"
+msgstr "Direta"
+
+#: wp-imovel/action_hooks.php:159
+msgid "Área privativa"
+msgstr "Área privativa"
+
+#: wp-imovel/action_hooks.php:160
+msgid "Área de uso comum"
+msgstr "Área de uso comum"
+
+#: wp-imovel/action_hooks.php:161
+msgid "Observações"
+msgstr "Observações"
+
+#: wp-imovel/core/class_widgets.php:8
+msgid "Child Properties"
+msgstr ""
+
+#: wp-imovel/core/class_widgets.php:86
+msgid "The widget will not be displayed if the currently viewed property has no children."
+msgstr ""
+
+#: wp-imovel/core/class_widgets.php:90
+#: wp-imovel/core/class_widgets.php:213
+#: wp-imovel/core/class_widgets.php:316
+#: wp-imovel/core/class_widgets.php:496
+msgid "Title:"
+msgstr "Título:"
+
+#: wp-imovel/core/class_widgets.php:96
+#: wp-imovel/core/class_widgets.php:219
+msgid "Image Size:"
+msgstr "Tamanho da imagem:"
+
+#: wp-imovel/core/class_widgets.php:101
+msgid "Select the stats you want to display"
+msgstr ""
+
+#: wp-imovel/core/class_widgets.php:120
+msgid "Address Format:"
+msgstr "Formato do endereço:"
+
+#: wp-imovel/core/class_widgets.php:133
+msgid "Featured Properties"
+msgstr "Imóveis em destaque"
+
+#: wp-imovel/core/class_widgets.php:262
+msgid "Property Search"
+msgstr "Pesquisar imóveis"
+
+#: wp-imovel/core/class_widgets.php:321
+msgid "Pagination options for search results"
+msgstr "Paginação dos resultados da busca"
+
+#: wp-imovel/core/class_widgets.php:325
+msgid "Do you want to use pagination?"
+msgstr "Usar paginação ?"
+
+#: wp-imovel/core/class_widgets.php:331
+msgid "Items per page"
+msgstr "Imóveis por página"
+
+#: wp-imovel/core/class_widgets.php:340
+msgid "Select the attributes you want to search."
+msgstr "Escolha como pode ser a pesquisa"
+
+#: wp-imovel/core/class_widgets.php:396
+msgid "No searchable property types were found."
+msgstr "Não foram encontrados tipos de imóveis que possar ser pesquisados."
+
+#: wp-imovel/core/class_widgets.php:403
+msgid "Property types to search:"
+msgstr "Tipos de imóveis para pesquisar:"
+
+#: wp-imovel/core/class_widgets.php:444
+msgid "Property Gallery"
+msgstr "Galeria do  Imóvel"
+
+#: wp-imovel/core/class_widgets.php:502
+msgid "Thumbnail Size:"
+msgstr "Tamanho da miniatura:"
+
+#: wp-imovel/core/class_widgets.php:508
+msgid "Popup Image Size:"
+msgstr "Tamanho da imagem popup:"
+
+#: wp-imovel/core/class_widgets.php:515
+msgid "Show %s Images"
+msgstr "Mostar %s imagens"
+
+#: wp-imovel/core/class_functions.php:149
+msgid "No property types found. Have a look at your settings."
+msgstr ""
+
+#: wp-imovel/core/class_functions.php:475
+msgid "Settings saved."
+msgstr "Configuração salva"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:71
+#: wp-imovel/core/class_core.php:361
+msgid "Property Type Settings"
+msgstr "Tipos de imóveis"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:107
+msgid "Property Types"
+msgstr "Tipos de imóveis"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:110
+msgid "Price Ranges"
+msgstr "Faixas de preço"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:113
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:339
+msgid "Property Meta Public"
+msgstr "Informações para o site"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:119
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:466
+msgid "Property Search Fields"
+msgstr "Campos de pesquisa para imóveis"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:133
+msgid ""
+"<p>Create new property types using this menu. </p>\n"
+"\t\t\t\t<p>The <b>slug</b> is automatically created from the title and is used in the back-end.  It is also used for template selection, example: floorplan will look for a template called property-floorplan.php in your theme folder, or default to property.php if nothing is found.</p>\n"
+"\t\t\t\t<p>If <b>Searchable</b> is checked then the property will be loaded for search, and available on the property search widget.</p>\n"
+"\t\t\t\t<p>If <b>Location Matters</b> is checked, then an address field will be displayed for the property, and validated against Google Maps API.  Additionally, the property will be displayed on the SuperMap, if the feature is installed.</p>\n"
+"\t\t\t\t<p><b>Hidden Attributes</b> determine which attributes are not applicable to the given property type, and will be grayed out in the back-end.</p>\n"
+"\t\t\t\t<p><b>Inheritance</b> determines which attributes should be automatically inherited from the parent property.</p>"
+msgstr "<p>Crie novos tipos de imóveis aqui.</p>"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:146
+msgid "Internal slug"
+msgstr "Slug"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:149
+msgid "Property Slug"
+msgstr "Código do imóvel"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:152
+#: wp-imovel/core/class_core.php:284
+msgid "Settings"
+msgstr "Configuração"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:155
+msgid "Hidden Attributes"
+msgstr "Atributos escondidos"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:236
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:298
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:383
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:440
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:269
+msgid "Delete"
+msgstr "Remover"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:247
+msgid "Add Property Type"
+msgstr "Inserir tipo de imóvel"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:261
+msgid "Price Range Settings"
+msgstr "Configurar faixas de preço"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:264
+msgid "Price ranges for properties."
+msgstr "Faixas de preço para imóveis."
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:270
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:352
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:421
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:228
+msgid "Slug"
+msgstr "Slug"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:273
+msgid "Starting Price"
+msgstr "Preço inicial"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:276
+msgid "Ending Price"
+msgstr "Preço final"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:308
+msgid "Add Price Range"
+msgstr "Inserir faixa de preço"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:341
+msgid ""
+"<p>Property Meta Public are meant to be short entries that can be searchable, on the back-end attributes will be displayed as single-line input boxes. On the front-end they are displayed using a definitions list.</p>\n"
+"\t\t\t\t<p>Making an attribute as \"searchable\" will list it as one of the searchable options in the <strong>Property Search widget</strong> settings.</p>\n"
+"\t\t\t\t<p>Be advised, attributes added via add_filter() function supercede the settings on this page.</p>"
+msgstr "<p>Estas informações são públicas e aparecem no site.</p>"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:349
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:418
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:476
+msgid "Name"
+msgstr "Nome"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:355
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:378
+msgid "Searchable"
+msgstr "Pode ser pesquisado"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:358
+msgid "View/Edit values"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:381
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:438
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:394
+msgid "Add Property Meta Public"
+msgstr "Inserir informação para o site"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:411
+msgid "Meta Private is used for descriptions, on the back-end meta fields will be displayed as textareas. On the front-end they will not be displayed."
+msgstr "Estas informações não aparecem no site, são apenas para os administradores."
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:452
+msgid "Add Property Meta Private"
+msgstr "Inserir informação privada"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:469
+msgid "Search properties using price ranges and the meta fields."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:495
+msgid "Searchable in admin"
+msgstr "Pode ser pesquisado"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:548
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:497
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: wp-imovel/core/ui/wp-imovel-page-property-settings.php:548
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:497
+msgid "Submit"
+msgstr "Enviar"
+
+#: wp-imovel/core/ui/wp-imovel-page-meta-values_save.php:61
+msgid "Ok"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-meta-values.php:36
+msgid "Sorry, could not find any values to edit."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-meta-values.php:46
+msgid "Click at the values you want to edit."
+msgstr "Clique nos valores que você deseja editar."
+
+#: wp-imovel/core/ui/wp-imovel-page-meta-values.php:65
+msgid "Save all changes"
+msgstr "Salvar mudanças"
+
+#: wp-imovel/core/ui/wp-imovel-page-meta-values.php:66
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:482
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:489
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:32
+msgid "Looks like this setting has no options. Please add some options or remove the setting."
+msgstr "Esta informação não tem opções. Por favor adicione algumas opções ou remova a configuração."
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:132
+msgid "Display property in featured listing."
+msgstr "Colocar imóvel na lista de destaques."
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:138
+msgid "Mark property as sold?"
+msgstr "Marcar como vendido"
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:267
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:325
+msgid "Editing %s is disabled, it may be inherited."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:278
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:340
+msgid "Show common values."
+msgstr "Mostrar opções existentes."
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:288
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:350
+msgid "Cancel."
+msgstr "Cancelar."
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:439
+msgid "No property images yet."
+msgstr "Sem imagens de imóveis ainda."
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:468
+#: wp-imovel/core/class_core.php:355
+#: wp-imovel/core/class_core.php:791
+msgid "Make private"
+msgstr "Tornar privada"
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:471
+#: wp-imovel/core/class_core.php:354
+#: wp-imovel/core/class_core.php:794
+msgid "Make public"
+msgstr "Tornar pública"
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:489
+msgid "Content"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-property-metaboxes.php:516
+msgid "Details"
+msgstr "Detalhes"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:43
+#: wp-imovel/core/class_core.php:362
+msgid "Property Settings"
+msgstr "Configuração"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:79
+msgid "Main"
+msgstr "Principal"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:82
+msgid "Display"
+msgstr "Site"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:85
+msgid "Admin UI"
+msgstr "Admin UI"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:88
+msgid "Troubleshooting"
+msgstr "Solução de problemas"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:95
+msgid "Properties Listing Page"
+msgstr "Página da lista de imóveis"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:100
+msgid "Property (Default)"
+msgstr "Imóvel (padrão)"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:121
+msgid "Automatically insert property overview into property page content."
+msgstr "Inserir automaticamente o resumo do imóvel no conteúdo da página do imóvel."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:125
+msgid "If unchecked, you will have to copy and paste one of the shortcodes into the content to display property information on the page."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:128
+msgid "Available shortcodes:"
+msgstr "Shortcodes disponíveis:"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:132
+msgid "[property_overview] - Property Overview"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:135
+msgid "[property_overview type=floorplan] - Property Overview, floorplans only"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:138
+msgid "[property_overview pagination=on per_page=5 sorter=on] - Property Overview, pagination and sort order"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:141
+msgid "[property_overview [property_overview for_sale=true] - Property Overview, filter by custom attribute"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:146
+msgid "[featured_properties] - Featured Properties"
+msgstr "[featured_properties] - Imóveis em destaque"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:150
+msgid "Copy and paste the shortcodes into the page content."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:156
+msgid "Default Phone Number"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:160
+msgid "Phone number to use when a property-specific phone number is not specified."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:167
+msgid "Address Attribute"
+msgstr "Atributo de endereço"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:170
+msgid "Attribute to use for address:"
+msgstr "Atributo para usar como endereço:"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:172
+msgid "and localize for:"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:178
+msgid "Currency"
+msgstr "Moeda"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:182
+msgid "Currency symbol."
+msgstr "Simbolo monetário"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:193
+msgid "General Settings"
+msgstr "Configuração geral"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:197
+msgid "These are the general display settings"
+msgstr "Essas são as configurações gerais do site"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:202
+msgid "Automatically include default CSS."
+msgstr "Incluir CSS padrão automaticamente."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:211
+msgid "Image Sizes"
+msgstr "Tamanhos de imagem"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:215
+msgid "Image sizes used throughout the plugin."
+msgstr "Tamanhos de imagem utilizados pelo plugin."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:218
+msgid "After adding/removing image size, be sure to <a href=\"%s\">regenerate thumbnails</a> using the Regenerate Thumbnails plugin."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:221
+msgid "We strongly recommend to <a href=\"http://wordpress.org/extend/plugins/regenerate-thumbnails/\">Regenerate Thumbnails</a> plugin by Viper007Bond."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:231
+msgid "Width"
+msgstr "Largura"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:234
+msgid "Height"
+msgstr "Altura"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:295
+msgid "Add Image Size"
+msgstr "Inserir tamanho de imagem"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:306
+msgid "Overview Shortcode"
+msgstr "Lista de imóveis utilizando [property_overview]"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:310
+msgid ""
+"These are the settings for the [property_overview] shortcode.  The shortcode displays a list of all building / root properties.<br />\n"
+"\t\t\t\tThe display settings may be edited further by customizing the <b>wp-content/plugins/wp-properties/templates/property-overview.php</b> file.  To avoid losing your changes during updates, create a <b>property-overview.php</b> file in your template directory, which will be automatically loaded."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:315
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:396
+msgid "Thumbnail size:"
+msgstr "Tamanho das miniaturas de imagem:"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:320
+msgid "Show children properties."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:325
+msgid "Show larger image of property when image is clicked using fancybox."
+msgstr "Usar o fancybox para mostrar imagem maior quando a imagem do imóvel for clicada."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:333
+msgid "Property Page"
+msgstr "Página do imóvel"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:339
+msgid "Display larger image, or slideshow, at the top of the property listing."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:344
+msgid "The display settings may be edited further by customizing the <b>wp-content/plugins/wp-properties/templates/property.php</b> file.  To avoid losing your changes during updates, create a <b>property.php</b> file in your template directory, which will be automatically loaded."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:350
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:355
+msgid "Map Thumbnail Size:"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:359
+msgid "Map Zoom Level:"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:366
+msgid "Address Display"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:372
+msgid "Available tags:"
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:381
+msgid "Overview Page"
+msgstr "Página de imóveis"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:385
+msgid "These settings are for the main property page on the back-end."
+msgstr "As configurações a seguir são para a página de imóveis no painel de controle."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:391
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:404
+msgid "Hide / Show columns"
+msgstr "Esconder / Mostrar colunas"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:412
+msgid "Column Name"
+msgstr "Nome da coluna"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:415
+msgid "Hide"
+msgstr "Esconder"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:428
+#: wp-imovel/core/class_core.php:674
+msgid "Property Id"
+msgstr "Código do imóvel"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:429
+#: wp-imovel/core/class_core.php:675
+msgid "Type"
+msgstr "Tipo"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:446
+msgid "Hide Column"
+msgstr "Esconder coluna"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:463
+msgid "Log"
+msgstr "Log"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:467
+msgid "Show Log."
+msgstr "Mostar log."
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:472
+msgid "The log is always active, but the UI is hidden.  If enabled, it will be visible in the admin sidebar."
+msgstr "O log está sempre ativo, porém a interface está escondida por padrão. "
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:478
+msgid "Enter in the ID of the property you want to look up, and the class will be displayed below."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:480
+msgid "Lookup"
+msgstr "Procurar"
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:486
+msgid "Look up the <b>$wp_imovel</b> global settings array.  This array stores all the default settings, which are overwritten by database settings, and custom filters."
+msgstr ""
+
+#: wp-imovel/core/ui/wp-imovel-page-settings.php:487
+msgid "Show %s"
+msgstr "Mostrar %s"
+
+#: wp-imovel/core/class_ud.php:393
+msgid "Processing..."
+msgstr "Processando..."
+
+#: wp-imovel/core/class_ud.php:434
+msgid "UD Log Page for"
+msgstr "Página de log"
+
+#: wp-imovel/core/class_ud.php:435
+msgid "Clear Log"
+msgstr "Limpar o arquivo de log"
+
+#: wp-imovel/core/class_ud.php:440
+msgid "Timestamp"
+msgstr "Marca temporal"
+
+#: wp-imovel/core/class_ud.php:441
+msgid "Event"
+msgstr "Evento"
+
+#: wp-imovel/core/class_ud.php:442
+msgid "User"
+msgstr "Usuário"
+
+#: wp-imovel/core/class_ud.php:633
+msgid "Cache table does not exist. Attempting to create:"
+msgstr ""
+
+#: wp-imovel/core/class_ud.php:646
+msgid "SQL Ran: %s , verifying existance."
+msgstr ""
+
+#: wp-imovel/core/class_ud.php:651
+msgid "Table created and exists."
+msgstr ""
+
+#: wp-imovel/core/class_ud.php:655
+msgid "Table not created."
+msgstr ""
+
+#: wp-imovel/core/class_ud.php:726
+#: wp-imovel/core/class_ud.php:762
+msgid "Log Started."
+msgstr "Arquivo de log iniciado."
+
+#: wp-imovel/core/class_ud.php:851
+msgid "Today"
+msgstr "Hoje"
+
+#: wp-imovel/core/class_ud.php:852
+msgid " Tomorrow "
+msgstr "Amanhã"
+
+#: wp-imovel/core/class_ud.php:852
+msgid " Yesterday "
+msgstr "Ontem"
+
+#: wp-imovel/core/class_ud.php:967
+msgid "Automatically logged failed JSON response: "
+msgstr ""
+
+#: wp-imovel/core/class_ud.php:1080
+msgid "%s hours ago"
+msgstr "%s horas atrás"
+
+#: wp-imovel/core/class_ud.php:1082
+msgid "%s minutes ago"
+msgstr "%s  minutos atrás"
+
+#: wp-imovel/core/class_core.php:146
+#: wp-imovel/core/class_core.php:161
+#: wp-imovel/core/class_core.php:622
+msgid "Property"
+msgstr "Imóvel"
+
+#: wp-imovel/core/class_core.php:147
+msgid "Add New"
+msgstr "Inserir novo"
+
+#: wp-imovel/core/class_core.php:148
+msgid "Add New Property"
+msgstr "Inserir novo imóvel"
+
+#: wp-imovel/core/class_core.php:150
+msgid "Edit Property"
+msgstr "Editar imóvel"
+
+#: wp-imovel/core/class_core.php:151
+msgid "New Property"
+msgstr "Novo imóvel"
+
+#: wp-imovel/core/class_core.php:152
+msgid "View"
+msgstr "Visualizar"
+
+#: wp-imovel/core/class_core.php:153
+msgid "View Property"
+msgstr "Ver imóvel"
+
+#: wp-imovel/core/class_core.php:154
+msgid "Search Properties"
+msgstr "Pesquisar imóveis"
+
+#: wp-imovel/core/class_core.php:155
+msgid "No properties found"
+msgstr "Nenhum imóvel encontrado"
+
+#: wp-imovel/core/class_core.php:156
+msgid "No properties found in Trash"
+msgstr "Nenhum imóvel encontrado na lixeira"
+
+#: wp-imovel/core/class_core.php:171
+msgid "Easily manage your properties here."
+msgstr "Gerencie facilmente seu imóveis."
+
+#: wp-imovel/core/class_core.php:177
+#: wp-imovel/core/class_core.php:659
+msgid "Sold"
+msgstr "Vendido"
+
+#: wp-imovel/core/class_core.php:184
+#: wp-imovel/core/class_core.php:190
+#: wp-imovel/core/class_core.php:191
+msgid "Property Status"
+msgstr "Informações"
+
+#: wp-imovel/core/class_core.php:192
+msgid "Search Property Status"
+msgstr "Pesquisar outras informações"
+
+#: wp-imovel/core/class_core.php:193
+msgid "All Property Status"
+msgstr "Todas informações"
+
+#: wp-imovel/core/class_core.php:194
+msgid "Parent Property Status"
+msgstr "Informações do imóvel pai"
+
+#: wp-imovel/core/class_core.php:196
+msgid "Edit Property Status"
+msgstr "Editar informações"
+
+#: wp-imovel/core/class_core.php:197
+msgid "Update Property Status"
+msgstr "Atualizar informações"
+
+#: wp-imovel/core/class_core.php:198
+msgid "Add New Property Status"
+msgstr "Inserir nova informação"
+
+#: wp-imovel/core/class_core.php:199
+msgid "New Property Status"
+msgstr "Nova informação"
+
+#: wp-imovel/core/class_core.php:211
+msgid "Property Features"
+msgstr "Características do imóvel"
+
+#: wp-imovel/core/class_core.php:212
+msgid "Property Feature"
+msgstr "Característica do imóvel"
+
+#: wp-imovel/core/class_core.php:213
+msgid "Search Property Features"
+msgstr "Pesquisar características de imóvel"
+
+#: wp-imovel/core/class_core.php:214
+msgid "All Property Features"
+msgstr "Todas características de imóvel"
+
+#: wp-imovel/core/class_core.php:215
+msgid "Parent Property Feature"
+msgstr "Características do imóvel pai"
+
+#: wp-imovel/core/class_core.php:217
+msgid "Edit Property Feature"
+msgstr "Editar características do imóvel"
+
+#: wp-imovel/core/class_core.php:218
+msgid "Update Property Feature"
+msgstr "Atualizar características do imóvel"
+
+#: wp-imovel/core/class_core.php:219
+msgid "Add New Property Feature"
+msgstr "Inserir nova característica de imóvel"
+
+#: wp-imovel/core/class_core.php:220
+msgid "New Property Feature"
+msgstr "Nova característica de imóvel"
+
+#: wp-imovel/core/class_core.php:233
+msgid "Community Feature"
+msgstr "Infraestrutura do condomínio"
+
+#: wp-imovel/core/class_core.php:234
+msgid "Search Community Features"
+msgstr "Pesquisar características de condomínio"
+
+#: wp-imovel/core/class_core.php:235
+msgid "All Community Features"
+msgstr "Todas características de condomínio"
+
+#: wp-imovel/core/class_core.php:236
+msgid "Parent Community Feature"
+msgstr "Infraestrutura de condomínio"
+
+#: wp-imovel/core/class_core.php:238
+msgid "Edit Community Feature"
+msgstr "Editar infraestrutura de condomínio"
+
+#: wp-imovel/core/class_core.php:239
+msgid "Update Community Feature"
+msgstr "Atualizar infraestrutura de condomínio"
+
+#: wp-imovel/core/class_core.php:240
+msgid "Add New Community Feature"
+msgstr "Inserir nova característica de condomínio"
+
+#: wp-imovel/core/class_core.php:241
+msgid "New Community Feature"
+msgstr "Nova característica de condomínio"
+
+#: wp-imovel/core/class_core.php:267
+msgid "Property: %s"
+msgstr "Imóvel: %s"
+
+#: wp-imovel/core/class_core.php:347
+#: wp-imovel/core/class_core.php:688
+#: wp-imovel/core/class_core.php:758
+#: wp-imovel/core/class_core.php:764
+msgid "Featured"
+msgstr "Destacado"
+
+#: wp-imovel/core/class_core.php:348
+#: wp-imovel/core/class_core.php:760
+msgid "Feature"
+msgstr "Destaque"
+
+#: wp-imovel/core/class_core.php:383
+msgid "Be advised, since you don't have permalinks enabled, you must visit the <a href=\"%s\">Settings Page</a> and set a custom property overview page."
+msgstr ""
+
+#: wp-imovel/core/class_core.php:384
+msgid "By default, your property overview will be displayed on the <a href=\"%s\">$default_url</a> page. You may change the overview page on the <a href=\"%s\">Settings Page</a>"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:389
+msgid "Thank you for installing WP-Imovel!"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:391
+msgid "<p>You may also visit <a href=\"http://ppgr.com.br/wordpress/plugins/wp-imovel/\">PPGR.com.br</a> for more information.</p>"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:637
+msgid "Property updated!!! <a href=\"%s\">View property</a>"
+msgstr "Imóvel atualizado. <a href=\"%s\">Ver imóvel</a>"
+
+#: wp-imovel/core/class_core.php:638
+msgid "Custom field updated."
+msgstr ""
+
+#: wp-imovel/core/class_core.php:639
+msgid "Custom field deleted."
+msgstr ""
+
+#: wp-imovel/core/class_core.php:640
+msgid "Property updated."
+msgstr "Imóvel atualizado."
+
+#: wp-imovel/core/class_core.php:641
+msgid "Property restored to revision from %s"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:642
+msgid "Property published. <a href=\"%s\">View property</a>"
+msgstr "Imóvel publicado. <a href=\"%s\">Ver imóvel</a>"
+
+#: wp-imovel/core/class_core.php:643
+msgid "Property saved."
+msgstr "Imóvel salvo."
+
+#: wp-imovel/core/class_core.php:644
+msgid "Property submitted. <a target=\"_blank\" href=\"%s\">Preview property</a>"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:645
+msgid "Property scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview property</a>"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:645
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:646
+msgid "Property draft updated. <a target=\"_blank\" href=\"%s\">Preview property</a>"
+msgstr ""
+
+#: wp-imovel/core/class_core.php:673
+msgid "Title"
+msgstr "Título"
+
+#: wp-imovel/core/class_core.php:692
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: wp-imovel/core/class_core.php:782
+#: wp-imovel/core/class_core.php:962
+msgid "Public/Private Images"
+msgstr "Imagens públicas e privadas"
+
+#: wp-imovel/core/class_core.php:958
+msgid "Status Information"
+msgstr "Informações "
+
+#: wp-imovel/core/class_core.php:959
+msgid "General Information"
+msgstr "Informações gerais"
+
+#: wp-imovel/core/class_core.php:960
+msgid "Private Information"
+msgstr "Informações privativas"
+
+#: wp-imovel/core/class_core.php:964
+msgid "WP-Imovel Overview"
+msgstr "Resumo (WP-Imovel)"
+
+#: wp-imovel/core/class_core.php:1104
+msgid "Floor plans at location:"
+msgstr ""
+
+#~ msgid "Price ranges used throughout the plugin."
+#~ msgstr "Faixas de preço utilizados pelo plugin."
+
+#~ msgid "Previous"
+#~ msgstr "Página anterior"
+
+#~ msgid "Next"
+#~ msgstr "Próxima página"
+
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgid "sold"
+#~ msgstr "vendido"
+
+#~ msgid "Property Fields "
+#~ msgstr "Características"
+
+#~ msgid "Add Row"
+#~ msgstr "Adicionar linha"
+
+#~ msgid "Property Stats"
+#~ msgstr "Atributos"
+
+#~ msgid "Add Property Stats"
+#~ msgstr "Inserir atributo de imóvel"
+
+#~ msgid "Posição"
+#~ msgstr "Posição"
+
+#~ msgid "Address"
+#~ msgstr "Endereço"
+
+#~ msgid "Menu Sort Order:"
+#~ msgstr "Ordem no menu:"
+
+#~ msgid "Type Information"
+#~ msgstr "Informação do tipo"
+
+#~ msgid "(no parent)"
+#~ msgstr "(sem pai)"
+
+#~ msgid "Parent"
+#~ msgstr "Pai"
+
+#~ msgid "Template"
+#~ msgstr "Modelo"
+
+#~ msgid "Page Template"
+#~ msgstr "Modelo de página"
+
+#~ msgid "Default Template"
+#~ msgstr "Modelo padrão"
+
+#~ msgid "Order"
+#~ msgstr "Ordem"
+
+#~ msgid "Categoria"
+#~ msgstr "Categoria"
+
+#~ msgid "Ocupação"
+#~ msgstr "Ocupação"
+
+#~ msgid "Bedrooms"
+#~ msgstr "Quartos"
+
+#~ msgid "Bathrooms"
+#~ msgstr "Banheiros"
+
+#~ msgid "Property Settings "
+#~ msgstr "Configuração para imóveis"
+
+#~ msgid "City"
+#~ msgstr "Cidade"
+
+#~ msgid "Developer"
+#~ msgstr "Desenvolvedor"
+
+#~ msgid "Property Fields"
+#~ msgstr "Características"
+
+#~ msgid "Tagline"
+#~ msgstr "Slogan de venda"
+
+#~ msgid "Version"
+#~ msgstr "Versão"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"

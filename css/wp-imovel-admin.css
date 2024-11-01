@@ -1,0 +1,432 @@
+.wp-imovel-image-privacy {
+	text-align:center;
+	margin: 4px;
+	padding: 4px;		
+	border: 1px solid #CFCBCB;
+	width: 45%
+    -moz-border-radius: 6px 6px 6px 6px;
+}
+
+.wp-imovel-private-image {
+	background-color:#E1E1E1;
+}
+
+.wp-imovel-status {
+	margin: 4px;
+	padding: 4px;		
+	border: 1px solid #CFCBCB;
+	width: 45%
+    -moz-border-radius: 6px 6px 6px 6px;
+}
+.wp-imovel-status legend {
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.wp_imovel_draggable_handle {
+	width:22px !important;
+	padding:0 !important;
+}
+
+.wp_imovel_draggable_handle_show {
+	padding:0 !important;
+	width:22px !important;
+	cursor: move;
+	background:url("images/wp-imovel-draggable.png") no-repeat scroll 7px center transparent;
+}
+
+
+
+.wp_imovel_attribute_row_for_rent .wp_imovel_prefill_values, .wp_imovel_attribute_row_for_sale .wp_imovel_prefill_values {
+	display: none !important;
+}
+
+#wp_imovel_settings_tabs .form-table p, #wp_imovel_settings_tabs .form-table h3 {
+	margin-top: 0;
+}
+
+#wp_imovel_settings_tabs select option{
+	padding-right: 10px;
+}
+
+.wp_imovel_hidden_property_attributes li { 
+}
+
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+
+
+/* Settings Page Begin */
+#wp_imovel_settings_tabs table.ud_ui_dynamic_table {
+	margin: 0;
+}
+
+/* Settings Page End */
+
+
+/*
+	Property Overview Page
+*/
+/* Hide Monthly Filter Dropdown */
+
+.wp_imovel_overview  .tablenav select[name=m] { display: none; }
+ 
+.wp_imovel_overview  .tablenav #post-query-submit { display: none; }
+ 
+.wp_imovel_overview .widefat input.wp_imovel_is_featured {
+	background: none repeat scroll 0 0 #FF8104 !important;
+	border-color: #E89A00 !important;
+	color: #FFF !important;
+	text-decoration: none !important; }
+ 
+.wp_imovel_overview .widefat input.wp_imovel_featured_toggle {
+	background: transparent;
+	border: 0;
+	color: #B2B2B4;
+	cursor: pointer; }
+ 
+.wp_imovel_overview  .column-thumbnail a.fancybox img { border: 4px solid #D9D9D9; }
+ 
+.cb { clear: both; }
+ 
+.wp_imovel_class_pre {
+	background: none repeat scroll 0 0 #F4F9BC;
+	border: 2px solid #D6D9C1;
+	color: black;
+	font-size: 12px;
+	height: 600px;
+	margin-top: 17px;
+	overflow: scroll;
+	width: 100%; }
+ 
+.wp_imovel_save_changes_row {
+	clear: both;
+	margin-top: 15px; }
+ 
+#wp_imovel_settings_tabs  ul.tabs {
+	border-bottom: 1px solid #CBCBCB;
+	float: left;
+	height: 32px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%; }
+ 
+#wp_imovel_settings_tabs  ul.tabs li {
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	background: none repeat scroll 0 0 #F4F4F4;
+	border-color: #D0D0D0;
+	border-style: solid solid none;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-width: 1px 1px 0;
+	float: left;
+	height: 25px;
+	line-height: 23px;
+	margin: 0 10px -1px 0;
+	overflow: hidden;
+	padding: 3px;
+	position: relative; }
+ 
+#wp_imovel_settings_tabs  ul.tabs li a {
+	color: #000;
+	display: block;
+	font-size: 1.1em;
+	outline: none;
+	padding: 0 10px;
+	text-decoration: none; }
+ 
+
+#wp_imovel_settings_tabs  ul.tabs li:hover { 
+    background-color: #EAF2FA;
+}
+#wp_imovel_settings_tabs  ul.tabs li:active,
+#wp_imovel_settings_tabs  ul.tabs li.ui-tabs-selected {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-bottom: 1px solid #FFFFFF; 
+}
+ 
+#wp_imovel_settings_tabs  ul.tabs li.ui-tabs-selected:hover {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-bottom: 1px solid #FFFFFF; 
+}
+/* 
+html #wp_imovel_settings_tabs  ul.tabs li.active, html #wp_imovel_settings_tabs  ul.tabs li.active a:hover {
+	background: #fff;
+	border-bottom: 1px solid #fff; }
+*/
+ 
+#wp_imovel_settings_tabs  .ui-tabs-panel table {  }
+ 
+#wp_imovel_settings_tabs  .ui-tabs-panel {
+	-khtml-border-radius-bottomleft: 5px;
+	-khtml-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-color: #DEDEDE;
+	border-right: 1px solid #DEDEDE;
+	border-style: none solid solid;
+	border-width: medium 1px 1px;
+	clear: both;
+	float: left;
+	padding-bottom: 20px;
+	width: 100%; }
+ 
+#wp_imovel_settings_tabs  .wp_imovel_inner_tab {
+	font-size: 1.2em;
+	padding: 20px; }
+ 
+#wp_imovel_settings_tabs .ui-tabs-hide {
+	display: none !important; }
+ 
+#wp_imovel_settings_tabs ul.navigation { list-style-type: none; }
+ 
+#wp_imovel_settings_tabs ul.navigation li {
+	display: block;
+	padding: 10px; }
+ 
+#wp_imovel_settings_tabs .wp_imovel_permanent_image {
+	background: none repeat scroll 0 0 #F5F5F5;
+	border: 1px solid #B4B4B4;
+	font-size: 12px;
+	line-height: 15px;
+	padding: 2px 1px 3px 6px;
+	width: 136px; }
+ 
+.wp_imovel_link {
+	color: #21759B;
+	cursor: pointer;
+	text-decoration: underline; }
+ 
+	.wp_imovel_link:hover { color: #D54E21; }
+ 
+#property_meta.wp_imovel_link {
+	color: #21759B;
+	cursor: pointer;
+	text-decoration: underline; }
+ 
+.wp_imovel_edit_values {
+	display: block;
+	float:left;
+	padding-top: 5px; 
+}
+.wp_imovel_prefill_values {
+	display: block;
+	float: right;
+	padding-top: 5px; 
+}
+ 
+.wp_imovel_edit_values .wp_imovel_prefill_attribute,
+.wp_imovel_prefill_values .wp_imovel_prefill_attribute {
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background: #EFEFEF;
+		border-radius: 5px;
+		border: 1px solid #D6D6D6;
+		color: #000;
+		cursor: pointer;
+		display: none;
+		float: left;
+		margin: 0 5px 5px 0;
+		padding: 6px; }
+ 
+.misc-pub-section-last { display: none; }
+
+#property_stats input.text-input {
+	width: 100%;
+}
+ 
+#property_meta input.text-input {
+	width: 30em;
+}
+ 
+#property_meta .inside { margin: 0; }
+ 
+	#property_meta .inside .widefat { border: 0; }
+ 
+		#property_meta .inside .widefat th {
+			background: #E1E1E1;
+			padding-left: 15px;
+			vertical-align: top;
+			width: 150px; }
+ 
+		#property_meta .inside .widefat td { border-bottom: 1px solid #EFEFEF; vertical-align: middle;}
+ 
+		#property_meta .inside .widefat textarea { width: 100%; }
+ 
+		#property_meta .inside .widefat .description {
+			display: block;
+			padding: 5px 0 5px 0; }
+ 
+		#property_meta .inside .widefat input[type=text] { width: 200px; }
+ 
+		#property_meta .inside .widefat #wp_imovel_meta_location { width: 400px; }
+ 
+		#property_meta .inside .widefat option { padding-right: 15px; }
+ 
+		#property_meta .inside .widefat #wp_imovel_meta_price { width: 75px; }
+ 
+.disabled_message { display: none; }
+ 
+.disabled_row, .disabled_row th, .disabled_row td { background: #EFEFEF !important; }
+ 
+.disabled_row * {
+	border: #CFCFCF;
+	color: #BFBFBF;
+	cursor: default; }
+ 
+.disabled_row .description, .disabled_row .wp_imovel_prefill_values, .disabled_row .wp_imovel_prefill_attribute, .disabled_row input, .disabled_row textarea, .disabled_row select { display: none !important; }
+ 
+.disabled_row .disabled_message {
+	color: #BFBFBF;
+	display: inline;
+	float: left;
+	font-size: 1.1em;
+	letter-spacing: 1px;
+	margin-top: 1px;
+	padding: 4px 4px 4px 8px;
+	width: auto; }
+ 
+.wp_imovel_box {
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 1px solid #DDDDDD;
+	margin-bottom: 15px; 
+	padding: 15px;
+}
+ 
+.wp_imovel_box_header strong {
+	color: #000;
+	display: block;
+	font-weight: strong;
+	margin-bottom: 10px; }
+ 
+.wp_imovel_box_header p {
+	font-size: 11px;
+	margin: 0; }
+ 
+.wp_imovel_box_header {
+	border-bottom: 3px solid #E4E4E4;
+	padding: 7px 0 10px 11px; }
+ 
+.wp_imovel_box_content {
+	background: #FFF;
+	line-height: 1.2em;
+	padding: 10px; }
+ 
+.wp_imovel_box_footer { 
+	clear: both;
+	padding: 10px; }
+	
+#dashboard_wp_imovel_overview p.sub, 
+#dashboard_wp_imovel_overview .table, 
+#dashboard_wp_imovel_overview .versions {
+    margin: -12px;
+}
+#dashboard_wp_imovel_overview .inside {
+    font-size: 12px;
+    padding-top: 20px;
+}
+#dashboard_wp_imovel_overview p.sub {
+    color: #777777;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    font-size: 13px;
+    font-style: italic;
+    left: 15px;
+    padding: 5px 10px 15px;
+    position: absolute;
+    top: -17px;
+}
+#dashboard_wp_imovel_overview .table {
+    margin: 0 -9px;
+    padding: 0 10px;
+    position: relative;
+}
+#dashboard_wp_imovel_overview .table_content {
+    border-top: 1px solid #ECECEC;
+    float: left;
+    width: 35%;
+}
+#dashboard_wp_imovel_overview .table_discussion {
+    border-top: 1px solid #ECECEC;
+    float: right;
+    width: 55%;
+}
+#dashboard_wp_imovel_overview table td {
+    padding: 3px 0;
+    white-space: nowrap;
+}
+#dashboard_wp_imovel_overview table tr.first td {
+    border-top: medium none;
+}
+#dashboard_wp_imovel_overview td.b {
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    font-size: 14px;
+    padding-right: 6px;
+    text-align: right;
+    width: 1%;
+}
+#dashboard_wp_imovel_overview td.b a {
+    font-size: 18px;
+}
+#dashboard_wp_imovel_overview td.b a:hover {
+    color: #D54E21;
+}
+#dashboard_wp_imovel_overview .t {
+    color: #777777;
+    font-size: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+}
+#dashboard_wp_imovel_overview .t a {
+    white-space: nowrap;
+}
+#dashboard_wp_imovel_overview .spam {
+    color: red;
+}
+#dashboard_wp_imovel_overview .waiting {
+    color: #E66F00;
+}
+#dashboard_wp_imovel_overview .approved {
+    color: green;
+}
+#dashboard_wp_imovel_overview .versions {
+    clear: left;
+    padding: 6px 10px 12px;
+}
+#dashboard_wp_imovel_overview .versions .b {
+    font-weight: bold;
+}
+#dashboard_wp_imovel_overview a.button {
+    clear: right;
+    float: right;
+    position: relative;
+    top: -5px;
+}
